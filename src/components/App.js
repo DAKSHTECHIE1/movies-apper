@@ -33,6 +33,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Navbar search={search} />
+        <div className="heading">Movie Mania</div>
         <div className="main">
           <div className="tabs">
             <div
